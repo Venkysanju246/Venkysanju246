@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm saragadam venkatesh</h1>
+
+<h1 align="center">Hi 👋, I'm Venkatesh Saragadam</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkysanju246&label=Profile%20views&color=0e75b6&style=flat" alt="venkysanju246" /> </p>
@@ -13,7 +13,7 @@
 
 - 💬 About Me **I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YaN8KOxqMSSdhfoKYKrngtS3A0GE48nw/view?usp=share_link](https://drive.google.com/file/d/1YaN8KOxqMSSdhfoKYKrngtS3A0GE48nw/view?usp=share_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1YaN8KOxqMSSdhfoKYKrngtS3A0GE48nw/view?usp=share_link>Resume</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
