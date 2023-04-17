@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1YaN8KOxqMSSdhfoKYKrngtS3A0GE48nw/view?usp=share_link">Resume</a>
  
-- 📄 Know my Portfolio [venkysanju246.github.io](venkysanju246.github.io)https://venkysanju246.github.io/
+- 📄 Know my Portfolio [venkysanju246.github.io](venkysanju246.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
