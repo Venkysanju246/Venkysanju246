@@ -1,3 +1,5 @@
+[![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)](https://Venkysanju246.github.io)
+
 <h1 align="center">Hi 👋, I'm Venkatesh Saragadam</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
