@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Node JS, NO SQL, SQL**
 
-- 👨‍💻 All of my projects are available at [https://venkysanju246.github.io/](https://venkysanju246.github.io/)
+- 👨‍💻 Portfolio [https://venkysanju246.github.io/](https://venkysanju246.github.io/)
 
 - 💬About Me **I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems.**
 
