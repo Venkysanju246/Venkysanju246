@@ -5,6 +5,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=venkysanju246&label=Profile%20views&color=0e75b6&style=flat" alt="venkysanju246" /> </p>
 
+<div align="center" style="padding: 15px 20px;">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&weight=800&size=29&pause=1000&color=2196F3&background=82FF4A00&width=435&lines=I'm+a+Full+Stack+Web+Dev.;Hope+to+get+in+touch+" alt="Typing SVG" /></a>
+    </div>
+
+
+<img width="90%" height="180px" margin="'auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0c696763393359.5ab4ecb5ec40c.gif" alt="senapathisowjanya">
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkysanju246" alt="venkysanju246" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
