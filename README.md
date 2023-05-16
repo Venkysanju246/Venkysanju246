@@ -1,6 +1,6 @@
-[![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)](https://Venkysanju246.github.io)
+<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="40%" style=" margin='auto'; height="100px"; padding='60px'" / ></div>
 
-<h1 align="center">Hi 👋, I'm Venkatesh Saragadam</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Venkatesh Saragadam</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkysanju246&label=Profile%20views&color=0e75b6&style=flat" alt="venkysanju246" /> </p>
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Node JS, NO SQL, SQL**
 
-- 👨‍💻 Portfolio [https://venkysanju246.github.io](https://venkysanju246.github.io)
+- 👨‍💻 All of my projects are available at [https://venkysanju246.github.io/](https://venkysanju246.github.io/)
 
 - 💬About Me **I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems.**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/venkatesh-saragadam-93420b257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venkatesh-saragadam-93420b257/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/venkatesh-saragadam-93420b257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venkatesh-saragadam-93420b257/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
