@@ -10,8 +10,8 @@
     </div>
 
 
-<img width="90%" height="180px" margin="'auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0c696763393359.5ab4ecb5ec40c.gif" alt="senapathisowjanya">
-
+<!-- <img width="90%" height="180px" margin="'auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0c696763393359.5ab4ecb5ec40c.gif" alt="senapathisowjanya">
+ -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkysanju246" alt="venkysanju246" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
